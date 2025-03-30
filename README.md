@@ -32,4 +32,3 @@ I'm a passionate **designer, developer, and cybersecurity enthusiast** with a kn
 - **GitHub:** [github.com/HarshaKamakshigari](https://github.com/HarshaKamakshigari)  
 - **Twitter/X:** [@HarshaK](#)  
 
-🚀 Always open to collaborating on exciting projects! Let’s build something amazing.  
