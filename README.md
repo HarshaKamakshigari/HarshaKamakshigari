@@ -25,6 +25,6 @@ I'm a passionate **designer, developer, and cybersecurity enthusiast** with a kn
 - **VigilX** – A lightweight Linux-based EDR for malware and ransomware detection.  
 - **Sloud** – A music website & marketplace for bands.  
 - **SnapSnap** – A photo booth app with Firebase authentication.  
-- **Lost & Found App** – A platform for students to reclaim lost items using OpenCV for image detection.  
+- **Lost & Found App** – A platform for students to reclaim lost items 
 
 
