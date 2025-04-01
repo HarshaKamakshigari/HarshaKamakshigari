@@ -27,8 +27,4 @@ I'm a passionate **designer, developer, and cybersecurity enthusiast** with a kn
 - **SnapSnap** – A photo booth app with Firebase authentication.  
 - **Lost & Found App** – A platform for students to reclaim lost items using OpenCV for image detection.  
 
-## 📫 Connect With Me  
-- **LinkedIn:** [linkedin.com/in/harshakamakshigari](#)  
-- **GitHub:** [github.com/HarshaKamakshigari](https://github.com/HarshaKamakshigari)  
-- **Twitter/X:** [@HarshaK](#)  
 
