@@ -1,3 +1,3 @@
-# 👋 Hey there, I'm Harsha Kamakshigari!  
+# 👋 Hey there, I'm Harshaa!
 
 
