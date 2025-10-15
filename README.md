@@ -1,46 +1,45 @@
 # 👋 Hey there, I'm Harshaa!
 
-Welcome to my corner of code, creativity, and controlled chaos!  
+Welcome to my chaotic corner of **code, design, and cyber shenanigans**!  
 
-I'm a **cybersecurity enthusiast**, **UI/UX designer**, and **frontend developer** — basically, I make sure your websites look good *and* don’t get hacked.  
+I’m a **Security ninja** 🥷, **UI/UX designer** 🎨, and **frontend wizard** 💻 — basically, I make things **look awesome and stay hacker-proof**.
 
 ---
 
 ## 🛡️ What I Actually Do
 
-- Protect digital kingdoms like a low-key **white-hat ninja** 🥷💻  
-- Build **beautiful interfaces** that don’t explode under pressure  
-- Turn **design + development + security** into a deadly combo (safely!)  
-- Occasionally create NFTs and wonder why gas fees exist ⛽  
-- Debug my own life… sometimes more dangerous than malware
+- Guard digital kingdoms like a **white-hat ninja** 🥷  
+- Craft **interfaces that don’t crash** when users click everything  
+- Blend **design + dev + security** into a lethal (but safe) combo ⚡  
+- Occasionally dabble in NFTs and curse gas fees ⛽  
+- Debug life… sometimes harder than malware  
 
 ---
 
-## 🤪 Fun Facts About Me
+## 🤪 Fun Facts
 
-- Fluent in **HTML**, **CSS**, **JS**, and the occasional cyber joke 🐛  
-- I see vulnerabilities in my sleep (and sometimes in your code)  
-- Lives in **dark mode** 🌑 — easier on the eyes, harder on attackers  
-- Coffee is my fuel ☕, firewalls are my shield 🛡️  
-- Talking to computers: “Why would you do this??” is my morning mantra
+- Speaks fluent **HTML**, **CSS**, **JS**, and **sarcasm** 🐛  
+- Lives in **dark mode** 🌑 — saves eyes, confuses hackers  
+- Coffee fuels my brain ☕, firewalls protect my soul 🛡️  
+- Often tells computers: “Why would you do this??” before fixing bugs  
 
 ---
 
 ## 🚀 Skills & Superpowers
 
-- **Cybersecurity:** Pen-testing, malware analysis, vulnerability assessment, secure coding  
-- **Design:** Figma, Adobe XD, interactive UI/UX  
+- **Cybersecurity:** Pen-testing, malware analysis, vulnerability hunting  
+- **Design:** Figma, Adobe XD, UI/UX magic  
 - **Development:** React, Next.js, Tailwind, Python, Go  
-- **Web3 / NFT:** Minting, gallery design, and staying sane while checking gas fees  
+- **Web3 / NFT:** Minting, galleries, and surviving Ethereum gas fees  
 
 ---
 
 ## 📬 Contact Me
 
-- [Portfolio](https://h-s-folio.vercel.app/home) – see what I’ve built  
-- [LinkedIn](https://www.linkedin.com/in/harsha-kamakshigari/) – professional stuff  
-- [Email](mailto:harsha.kamakshigari@gmail.com) – collabs, memes, or urgent cybersecurity tips  
+- 🌐 [Portfolio](https://h-s-folio.vercel.app/home)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsha-kamakshigari/)  
+- ✉️ [Email](mailto:harsha.kamakshigari@gmail.com)  
 
 ---
 
-> “I make stuff that’s secure, functional, beautiful… and occasionally makes you laugh. Mostly at my own bugs.”
+> “I make stuff **secure, functional, beautiful… and occasionally hilarious**. Mostly at my own bugs.”
