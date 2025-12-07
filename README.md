@@ -1,45 +1,24 @@
-# 👋 Hey there, I'm Harshaa!
+# 🖥️ Terminal-Style README (with colors)
 
-Welcome to my chaotic corner of **code, design, and cyber shenanigans**!  
+$ about-me  
+<span style="color:#00ff9f">@root></span><span style="color:#9cdcfe">Name:</span> Harsha Kamakshigari  
+<span style="color:#00ff9f">@root></span><span style="color:#9cdcfe">Role:</span> Cybersecurity | UI/UX | Frontend Dev  
 
-I’m a **Security ninja** 🥷, **UI/UX designer** 🎨, and **frontend wizard** 💻 — basically, I make things **look awesome and stay hacker-proof**.
+$ what-i-do  
+<span style="color:#00ff9f">@root></span> Secure systems & hunt vulnerabilities  
+<span style="color:#00ff9f">@root></span> Design clean, simple user interfaces  
+<span style="color:#00ff9f">@root></span> Build fast web apps with React & Next.js  
 
----
+$ tech-stack  
+<span style="color:#00ff9f">@root></span> Security : Pen-testing, Analysis  
+<span style="color:#00ff9f">@root></span> Design   : Figma, UI/UX  
+<span style="color:#00ff9f">@root></span> Frontend : React, Next.js, Tailwind  
+<span style="color:#00ff9f">@root></span> Backend  : Python, Go  
 
-## 🛡️ What I Actually Do
+$ contact  
+<span style="color:#00ff9f">@root></span> Portfolio : https://h-s-folio.vercel.app/home  
+<span style="color:#00ff9f">@root></span> LinkedIn  : https://www.linkedin.com/in/harsha-kamakshigari/  
+<span style="color:#00ff9f">@root></span> Email     : harsha.kamakshigari@gmail.com  
 
-- Guard digital kingdoms like a **white-hat ninja** 🥷  
-- Craft **interfaces that don’t crash** when users click everything  
-- Blend **design + dev + security** into a lethal (but safe) combo ⚡  
-- Occasionally dabble in NFTs and curse gas fees ⛽  
-- Debug life… sometimes harder than malware  
-
----
-
-## 🤪 Fun Facts
-
-- Speaks fluent **HTML**, **CSS**, **JS**, and **sarcasm** 🐛  
-- Lives in **dark mode** 🌑 — saves eyes, confuses hackers  
-- Coffee fuels my brain ☕, firewalls protect my soul 🛡️  
-- Often tells computers: “Why would you do this??” before fixing bugs  
-
----
-
-## 🚀 Skills & Superpowers
-
-- **Cybersecurity:** Pen-testing, malware analysis, vulnerability hunting  
-- **Design:** Figma, Adobe XD, UI/UX magic  
-- **Development:** React, Next.js, Tailwind, Python, Go  
-- **Web3 / NFT:** Minting, galleries, and surviving Ethereum gas fees  
-
----
-
-## 📬 Contact Me
-
-- 🌐 [Portfolio](https://h-s-folio.vercel.app/home)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsha-kamakshigari/)  
-- ✉️ [Email](mailto:harsha.kamakshigari@gmail.com)  
-
----
-
-> “I make stuff **secure, functional, beautiful… and occasionally hilarious**. Mostly at my own bugs.”
+$ exit  
+<span style="color:#00ff9f">@root></span> "<span style="color:#9cdcfe">Building secure, simple digital experiences.</span>"
