@@ -1,5 +1,3 @@
-# 🖥️ Terminal-Style README (with colors)
-
 $ about-me  
 <span style="color:#00ff9f">@root></span><span style="color:#9cdcfe">Name:</span> Harsha Kamakshigari  
 <span style="color:#00ff9f">@root></span><span style="color:#9cdcfe">Role:</span> Cybersecurity | UI/UX | Frontend Dev  
